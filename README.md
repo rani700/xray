@@ -5,7 +5,7 @@ Training Model [train.ipynb](https://github.com/rani700/xray/blob/master/train.i
 Testing [test.ipynb](https://github.com/rani700/xray/blob/master/test.ipynb)  
 Trained Model file [model.h5](https://github.com/rani700/xray/blob/master/model.h5)  
   
-Testing on live notbook [Test on colab](http://colab.research.google.com/github/rani700/xray/blob/master/test.ipynb) <i>Open this colab link link run the cells upload the xray image from the dataset. And check out the segmented image generated.</i>  
+Testing on live notebook [Test on Google colab](http://colab.research.google.com/github/rani700/xray/blob/master/test.ipynb) <i>Open this Google Colab link run the cells upload the xray image from the dataset. And check out the segmented image generated.</i>  
 For testing [These images can be used](https://github.com/rani700/xray/tree/master/images)  
   
 ## Flask Application
